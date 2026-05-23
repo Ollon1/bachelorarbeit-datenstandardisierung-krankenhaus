@@ -1,0 +1,46 @@
+﻿Datei;Zeile_Original;Spalte;Alter_Wert;Neuer_Wert;Aktion;Kategorie
+bettenbelegung.xlsx;0;Abteilung;innere medizin;Innere Medizin;Schreibweise normalisiert;A
+bettenbelegung.xlsx;21;Abteilung;CHIRURGIE;Chirurgie;Schreibweise normalisiert;A
+bettenbelegung.xlsx;48;--;Komplette Zeile;Entfernt;Exaktes Duplikat entfernt;A
+bettenbelegung.xlsx;15;Belegte_Betten;NaN;Interpoliert;Zeitliche Interpolation (Nachbarmonate) fuer 2024-04/Gynaekologie;A
+personalplanung.xlsx;240;--;Komplette Zeile;Entfernt;Exaktes Duplikat entfernt;A
+personalplanung.xlsx;241;--;Komplette Zeile;Entfernt;Exaktes Duplikat entfernt;A
+personalplanung.xlsx;242;--;Komplette Zeile;Entfernt;Exaktes Duplikat entfernt;A
+personalplanung.xlsx;67;--;--;In Quarantäne verschoben;Uneindeutiger Fall -> Quarantäne;B
+personalplanung.xlsx;150;--;--;In Quarantäne verschoben;Uneindeutiger Fall -> Quarantäne;B
+personalplanung.xlsx;88;--;--;In Quarantäne verschoben;Uneindeutiger Fall -> Quarantäne;B
+personalplanung.xlsx;26;--;--;In Quarantäne verschoben;Uneindeutiger Fall -> Quarantäne;B
+personalplanung.xlsx;30;--;--;In Quarantäne verschoben;Uneindeutiger Fall -> Quarantäne;B
+personalplanung.xlsx;63;--;--;In Quarantäne verschoben;Uneindeutiger Fall -> Quarantäne;B
+personalplanung.xlsx;194;Abteilung;Verwlatung;Verwaltung;Schreibweise normalisiert;A
+personalplanung.xlsx;5;Berufsgruppe;pflege;Pflege;Schreibweise normalisiert;A
+personalplanung.xlsx;210;--;Komplette Zeile;Entfernt;Duplikat nach Schreibweisen-Korrektur (Verwlatung -> Verwaltung);A
+personalplanung.xlsx;43;Kostenstelle;NaN;KST002;Abgeleitet aus Abteilung 'Chirurgie' -> KST002;A
+personalplanung.xlsx;99;Vollzeitaequivalente_FTE;NaN;Interpoliert;Zeitliche Interpolation fuer 2024-06/Innere Medizin/Arzt;A
+personalplanung.xlsx;140;Vollzeitaequivalente_FTE;NaN;Interpoliert;Zeitliche Interpolation fuer 2024-01/Intensivstation/Arzt;A
+ressourcen_kosten.xlsx;324;--;Komplette Zeile;Entfernt;Exaktes Duplikat entfernt;A
+ressourcen_kosten.xlsx;325;--;Komplette Zeile;Entfernt;Exaktes Duplikat entfernt;A
+ressourcen_kosten.xlsx;326;--;Komplette Zeile;Entfernt;Exaktes Duplikat entfernt;A
+ressourcen_kosten.xlsx;60;Deckungsbeitrag;NaN;In Quarantaene verschoben;Keine sichere Ableitungsregel;B
+ressourcen_kosten.xlsx;9;Anzahl_Personal;NaN;32.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-01/Chirurgie/Material);A
+ressourcen_kosten.xlsx;46;Anzahl_Personal;NaN;21.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-02/Gynaekologie/Personal);A
+ressourcen_kosten.xlsx;55;Anzahl_Personal;NaN;34.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-03/Innere Medizin/Personal);A
+ressourcen_kosten.xlsx;73;Anzahl_Personal;NaN;20.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-03/Gynaekologie/Personal);A
+ressourcen_kosten.xlsx;84;Anzahl_Personal;NaN;35.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-04/Innere Medizin/Material);A
+ressourcen_kosten.xlsx;94;Anzahl_Personal;NaN;26.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-04/Intensivstation/Personal);A
+ressourcen_kosten.xlsx;101;Anzahl_Personal;NaN;20.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-04/Gynaekologie/Personal);A
+ressourcen_kosten.xlsx;137;Anzahl_Personal;NaN;36.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-06/Innere Medizin/Personal);A
+ressourcen_kosten.xlsx;139;Anzahl_Personal;NaN;35.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-06/Innere Medizin/Material);A
+ressourcen_kosten.xlsx;164;Anzahl_Personal;NaN;35.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-07/Innere Medizin/Personal);A
+ressourcen_kosten.xlsx;175;Anzahl_Personal;NaN;24.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-07/Intensivstation/Personal);A
+ressourcen_kosten.xlsx;219;Anzahl_Personal;NaN;35.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-09/Innere Medizin/Material);A
+ressourcen_kosten.xlsx;260;Anzahl_Personal;NaN;24.0;Abgeleitet aus haeufgstem Wert im gleichen Monat/Abteilung (2024-10/Intensivstation);A
+ressourcen_kosten.xlsx;311;Anzahl_Personal;NaN;24.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-12/Intensivstation/Personal);A
+ressourcen_kosten.xlsx;316;Anzahl_Personal;NaN;20.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-12/Gynaekologie/Personal);A
+ressourcen_kosten.xlsx;319;Anzahl_Personal;NaN;20.0;Abgeleitet aus gleichem Monat/Abteilung/Kostenart (2024-12/Gynaekologie/Material);A
+ressourcen_kosten.xlsx;109;Abteilung;intensivstation;Intensivstation;Schreibweise normalisiert;A
+ressourcen_kosten.xlsx;20;Kostenart;MATERIAL;Material;Schreibweise normalisiert;A
+ressourcen_kosten.xlsx;45;Kostenart;Matrial;Material;Schreibweise normalisiert;A
+ressourcen_kosten.xlsx;74;Kostenart;energie;Energie;Schreibweise normalisiert;A
+ressourcen_kosten.xlsx;12;Netto;NaN;51657.86;Berechnet aus Brutto (61989.43) * 5/6 (konsistente Formel ueber alle Daten);A
+ressourcen_kosten.xlsx;--;Betrag;== Brutto (100%);Spalte beibehalten, aber als redundant dokumentiert;Spalte 'Betrag' ist identisch mit 'Brutto' in allen Zeilen. Empfehlung: Spalte entfernen oder umbenennen.;A

@@ -1,0 +1,4941 @@
+[
+    {
+        "monat": "2024-01",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 36,
+            "tatsaechliche_betten": 34,
+            "belegte_betten": 30,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.2,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 18.4,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.3,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.1,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 87661.83,
+                "netto": 73051.52,
+                "brutto": 87661.83,
+                "deckungsbeitrag": 21556.23,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 14041.08,
+                "netto": 11700.9,
+                "brutto": 14041.08,
+                "deckungsbeitrag": 3452.73,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 92262.32,
+                "netto": 76885.27,
+                "brutto": 92262.32,
+                "deckungsbeitrag": 22687.5,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 61821.96,
+                "netto": 51518.3,
+                "brutto": 61821.96,
+                "deckungsbeitrag": 5232.63,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 2902.15,
+                "netto": 2418.46,
+                "brutto": 2902.15,
+                "deckungsbeitrag": 245.64,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 20097.44,
+                "netto": 16747.87,
+                "brutto": 20097.44,
+                "deckungsbeitrag": 4568.87,
+                "anzahl_personal": 32
+            }
+        ]
+    },
+    {
+        "monat": "2024-01",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 26,
+            "tatsaechliche_betten": 25,
+            "belegte_betten": 23,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 11.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.1,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 69124.17,
+                "netto": 57603.48,
+                "brutto": 69124.17,
+                "deckungsbeitrag": 16471.8,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 42431.35,
+                "netto": 35359.46,
+                "brutto": 42431.35,
+                "deckungsbeitrag": 10111.09,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 9320.32,
+                "netto": 7766.94,
+                "brutto": 9320.32,
+                "deckungsbeitrag": 2220.97,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 4521.83,
+                "netto": 3768.19,
+                "brutto": 4521.83,
+                "deckungsbeitrag": 420.16,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 24393.18,
+                "netto": 20327.65,
+                "brutto": 24393.18,
+                "deckungsbeitrag": 2266.56,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 10292.81,
+                "netto": 8577.34,
+                "brutto": 10292.81,
+                "deckungsbeitrag": 661.19,
+                "anzahl_personal": 18
+            }
+        ]
+    },
+    {
+        "monat": "2024-01",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 46,
+            "tatsaechliche_betten": 44,
+            "belegte_betten": 41,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 8.0,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 23.7,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.1,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.4,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 83336.65,
+                "netto": 69447.21,
+                "brutto": 83336.65,
+                "deckungsbeitrag": 14805.1,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 50301.98,
+                "netto": 41918.31,
+                "brutto": 50301.98,
+                "deckungsbeitrag": 8936.35,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 58878.26,
+                "netto": 49065.21,
+                "brutto": 58878.26,
+                "deckungsbeitrag": 10459.97,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 43971.6,
+                "netto": 36643.0,
+                "brutto": 43971.6,
+                "deckungsbeitrag": 4377.2,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 449.52,
+                "netto": 374.6,
+                "brutto": 449.52,
+                "deckungsbeitrag": 44.75,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 14078.57,
+                "netto": 11732.14,
+                "brutto": 14078.57,
+                "deckungsbeitrag": 833.46,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-01",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 13,
+            "tatsaechliche_betten": 13,
+            "belegte_betten": 10,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.8,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 15.0,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.2,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 61989.43,
+                "netto": 51657.86,
+                "brutto": 61989.43,
+                "deckungsbeitrag": 14672.11,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 92115.2,
+                "netto": 76762.67,
+                "brutto": 92115.2,
+                "deckungsbeitrag": 21802.5,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 76507.56,
+                "netto": 63756.3,
+                "brutto": 76507.56,
+                "deckungsbeitrag": 18108.37,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 50388.44,
+                "netto": 41990.37,
+                "brutto": 50388.44,
+                "deckungsbeitrag": 12035.3,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 35293.37,
+                "netto": 29411.14,
+                "brutto": 35293.37,
+                "deckungsbeitrag": 8429.83,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 31616.84,
+                "netto": 26347.37,
+                "brutto": 31616.84,
+                "deckungsbeitrag": 2393.4,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-02",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 35,
+            "tatsaechliche_betten": 34,
+            "belegte_betten": 26,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 9.7,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 18.0,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.7,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 7129.56,
+                "netto": 5941.3,
+                "brutto": 7129.56,
+                "deckungsbeitrag": 1411.52,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 152528.12,
+                "netto": 127106.76,
+                "brutto": 152528.12,
+                "deckungsbeitrag": 30197.78,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 46097.35,
+                "netto": 38414.46,
+                "brutto": 46097.35,
+                "deckungsbeitrag": 9126.43,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 44943.48,
+                "netto": 37452.9,
+                "brutto": 44943.48,
+                "deckungsbeitrag": 5124.0,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 23451.68,
+                "netto": 19543.07,
+                "brutto": 23451.68,
+                "deckungsbeitrag": 2673.73,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 19320.6,
+                "netto": 16100.5,
+                "brutto": 19320.6,
+                "deckungsbeitrag": 4239.49,
+                "anzahl_personal": 30
+            }
+        ]
+    },
+    {
+        "monat": "2024-02",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 25,
+            "tatsaechliche_betten": 25,
+            "belegte_betten": 21,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.1,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 11.9,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.3,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.1,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 23493.45,
+                "netto": 19577.88,
+                "brutto": 23493.45,
+                "deckungsbeitrag": 5854.24,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 88182.57,
+                "netto": 73485.48,
+                "brutto": 88182.57,
+                "deckungsbeitrag": 21973.88,
+                "anzahl_personal": 21
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 17429.55,
+                "netto": 14524.62,
+                "brutto": 17429.55,
+                "deckungsbeitrag": 4343.2,
+                "anzahl_personal": 21
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 13336.01,
+                "netto": 11113.34,
+                "brutto": 13336.01,
+                "deckungsbeitrag": 1048.19,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 14825.91,
+                "netto": 12354.93,
+                "brutto": 14825.91,
+                "deckungsbeitrag": 1165.29,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 10119.91,
+                "netto": 8433.26,
+                "brutto": 10119.91,
+                "deckungsbeitrag": 1368.4,
+                "anzahl_personal": 19
+            }
+        ]
+    },
+    {
+        "monat": "2024-02",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 46,
+            "tatsaechliche_betten": 45,
+            "belegte_betten": 34,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 8.1,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 23.5,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.8,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 28841.05,
+                "netto": 24034.21,
+                "brutto": 28841.05,
+                "deckungsbeitrag": 3852.85,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 17002.84,
+                "netto": 14169.03,
+                "brutto": 17002.84,
+                "deckungsbeitrag": 2271.4,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 120884.68,
+                "netto": 100737.24,
+                "brutto": 120884.68,
+                "deckungsbeitrag": 16148.89,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 11744.29,
+                "netto": 9786.91,
+                "brutto": 11744.29,
+                "deckungsbeitrag": 2913.77,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 35464.92,
+                "netto": 29554.1,
+                "brutto": 35464.92,
+                "deckungsbeitrag": 8798.88,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 15245.84,
+                "netto": 12704.87,
+                "brutto": 15245.84,
+                "deckungsbeitrag": 2475.52,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-02",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 11,
+            "tatsaechliche_betten": 11,
+            "belegte_betten": 9,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.8,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 14.7,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.7,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 191218.55,
+                "netto": 159348.8,
+                "brutto": 191218.55,
+                "deckungsbeitrag": 45894.82,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 24478.3,
+                "netto": 20398.58,
+                "brutto": 24478.3,
+                "deckungsbeitrag": 5875.1,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 27075.69,
+                "netto": 22563.08,
+                "brutto": 27075.69,
+                "deckungsbeitrag": 6498.5,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 38291.51,
+                "netto": 31909.59,
+                "brutto": 38291.51,
+                "deckungsbeitrag": 6155.0,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 43019.73,
+                "netto": 35849.78,
+                "brutto": 43019.73,
+                "deckungsbeitrag": 6915.02,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 31390.17,
+                "netto": 26158.47,
+                "brutto": 31390.17,
+                "deckungsbeitrag": 2142.1,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-03",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 35,
+            "tatsaechliche_betten": 33,
+            "belegte_betten": 27,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.5,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 17.9,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.3,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.5,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 63388.21,
+                "netto": 52823.51,
+                "brutto": 63388.21,
+                "deckungsbeitrag": 10414.34,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 53126.5,
+                "netto": 44272.08,
+                "brutto": 53126.5,
+                "deckungsbeitrag": 8728.4,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 6429.12,
+                "netto": 5357.6,
+                "brutto": 6429.12,
+                "deckungsbeitrag": 836.07,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 55840.95,
+                "netto": 46534.12,
+                "brutto": 55840.95,
+                "deckungsbeitrag": 7261.82,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 16331.93,
+                "netto": 13609.94,
+                "brutto": 16331.93,
+                "deckungsbeitrag": 3436.59,
+                "anzahl_personal": 30
+            }
+        ]
+    },
+    {
+        "monat": "2024-03",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 25,
+            "tatsaechliche_betten": 24,
+            "belegte_betten": 20,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.1,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 12.1,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.1,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 1703.15,
+                "netto": 1419.29,
+                "brutto": 1703.15,
+                "deckungsbeitrag": 216.03,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 12078.11,
+                "netto": 10065.09,
+                "brutto": 12078.11,
+                "deckungsbeitrag": 1531.99,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 109999.7,
+                "netto": 91666.42,
+                "brutto": 109999.7,
+                "deckungsbeitrag": 13952.4,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 19417.24,
+                "netto": 16181.03,
+                "brutto": 19417.24,
+                "deckungsbeitrag": 2740.38,
+                "anzahl_personal": 18
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 12456.03,
+                "netto": 10380.03,
+                "brutto": 12456.03,
+                "deckungsbeitrag": 1757.94,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 8748.89,
+                "netto": 7290.74,
+                "brutto": 8748.89,
+                "deckungsbeitrag": 1055.73,
+                "anzahl_personal": 19
+            }
+        ]
+    },
+    {
+        "monat": "2024-03",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 44,
+            "tatsaechliche_betten": 43,
+            "belegte_betten": 38,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 8.2,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 23.6,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.8,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.5,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 66195.91,
+                "netto": 55163.26,
+                "brutto": 66195.91,
+                "deckungsbeitrag": 15850.59,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 31843.12,
+                "netto": 26535.94,
+                "brutto": 31843.12,
+                "deckungsbeitrag": 7624.83,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 90969.59,
+                "netto": 75807.99,
+                "brutto": 90969.59,
+                "deckungsbeitrag": 21782.64,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 8481.62,
+                "netto": 7068.02,
+                "brutto": 8481.62,
+                "deckungsbeitrag": 1065.27,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 36386.38,
+                "netto": 30321.98,
+                "brutto": 36386.38,
+                "deckungsbeitrag": 4570.04,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 12378.85,
+                "netto": 10315.71,
+                "brutto": 12378.85,
+                "deckungsbeitrag": 1838.57,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-03",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 13,
+            "tatsaechliche_betten": 13,
+            "belegte_betten": 10,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 6.1,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 15.2,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.5,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 2318.27,
+                "netto": 1931.89,
+                "brutto": 2318.27,
+                "deckungsbeitrag": 135.92,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 135087.67,
+                "netto": 112573.06,
+                "brutto": 135087.67,
+                "deckungsbeitrag": 7920.46,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 131389.21,
+                "netto": 109491.01,
+                "brutto": 131389.21,
+                "deckungsbeitrag": 7703.61,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 32828.66,
+                "netto": 27357.21,
+                "brutto": 32828.66,
+                "deckungsbeitrag": 6207.31,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 44009.61,
+                "netto": 36674.68,
+                "brutto": 44009.61,
+                "deckungsbeitrag": 8321.44,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 28361.29,
+                "netto": 23634.41,
+                "brutto": 28361.29,
+                "deckungsbeitrag": 3996.34,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-04",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 36,
+            "tatsaechliche_betten": 36,
+            "belegte_betten": 30,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.3,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 17.7,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.0,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 81764.55,
+                "netto": 68137.12,
+                "brutto": 81764.55,
+                "deckungsbeitrag": 6547.98,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 29479.52,
+                "netto": 24566.27,
+                "brutto": 29479.52,
+                "deckungsbeitrag": 2360.82,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 104348.77,
+                "netto": 86957.31,
+                "brutto": 104348.77,
+                "deckungsbeitrag": 8356.6,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 41175.47,
+                "netto": 34312.89,
+                "brutto": 41175.47,
+                "deckungsbeitrag": 2581.8,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 24542.98,
+                "netto": 20452.49,
+                "brutto": 24542.98,
+                "deckungsbeitrag": 1538.9,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 13935.3,
+                "netto": 11612.75,
+                "brutto": 13935.3,
+                "deckungsbeitrag": 3106.8,
+                "anzahl_personal": 30
+            }
+        ]
+    },
+    {
+        "monat": "2024-04",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 25,
+            "tatsaechliche_betten": 24,
+            "belegte_betten": 20,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.3,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 11.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.9,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.1,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 7549.6,
+                "netto": 6291.33,
+                "brutto": 7549.6,
+                "deckungsbeitrag": 1310.8,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 69736.98,
+                "netto": 58114.15,
+                "brutto": 69736.98,
+                "deckungsbeitrag": 12108.13,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 46010.07,
+                "netto": 38341.73,
+                "brutto": 46010.07,
+                "deckungsbeitrag": 7988.53,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 15457.54,
+                "netto": 12881.28,
+                "brutto": 15457.54,
+                "deckungsbeitrag": 2380.97,
+                "anzahl_personal": 18
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 15849.59,
+                "netto": 13208.0,
+                "brutto": 15849.59,
+                "deckungsbeitrag": 2441.35,
+                "anzahl_personal": 18
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 8482.12,
+                "netto": 7068.43,
+                "brutto": 8482.12,
+                "deckungsbeitrag": 1108.58,
+                "anzahl_personal": 20
+            }
+        ]
+    },
+    {
+        "monat": "2024-04",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 44,
+            "tatsaechliche_betten": 44,
+            "belegte_betten": 41,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 8.0,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 24.5,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 96816.64,
+                "netto": 80680.53,
+                "brutto": 96816.64,
+                "deckungsbeitrag": 6316.33,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 41862.75,
+                "netto": 34885.62,
+                "brutto": 41862.75,
+                "deckungsbeitrag": 2731.13,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 30756.34,
+                "netto": 25630.28,
+                "brutto": 30756.34,
+                "deckungsbeitrag": 2006.55,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 36266.51,
+                "netto": 30222.09,
+                "brutto": 36266.51,
+                "deckungsbeitrag": 8578.68,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 8144.84,
+                "netto": 6787.37,
+                "brutto": 8144.84,
+                "deckungsbeitrag": 1926.63,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 11829.61,
+                "netto": 9858.01,
+                "brutto": 11829.61,
+                "deckungsbeitrag": 2431.23,
+                "anzahl_personal": 35
+            }
+        ]
+    },
+    {
+        "monat": "2024-04",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 12,
+            "tatsaechliche_betten": 12,
+            "belegte_betten": 11,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 6.4,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 14.8,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.2,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.2,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 39399.15,
+                "netto": 32832.63,
+                "brutto": 39399.15,
+                "deckungsbeitrag": 7879.13,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 71215.44,
+                "netto": 59346.2,
+                "brutto": 71215.44,
+                "deckungsbeitrag": 14241.82,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 140759.25,
+                "netto": 117299.38,
+                "brutto": 140759.25,
+                "deckungsbeitrag": 28149.34,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 37344.35,
+                "netto": 31120.29,
+                "brutto": 37344.35,
+                "deckungsbeitrag": 3714.63,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 47131.14,
+                "netto": 39275.95,
+                "brutto": 47131.14,
+                "deckungsbeitrag": 4688.11,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 24098.93,
+                "netto": 20082.44,
+                "brutto": 24098.93,
+                "deckungsbeitrag": 2203.74,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-05",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 36,
+            "tatsaechliche_betten": 34,
+            "belegte_betten": 26,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.0,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 18.2,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.2,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.7,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 156638.11,
+                "netto": 130531.76,
+                "brutto": 156638.11,
+                "deckungsbeitrag": 15922.09,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 27155.6,
+                "netto": 22629.67,
+                "brutto": 27155.6,
+                "deckungsbeitrag": 2760.34,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 15954.01,
+                "netto": 13295.01,
+                "brutto": 15954.01,
+                "deckungsbeitrag": 1621.71,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 36883.76,
+                "netto": 30736.47,
+                "brutto": 36883.76,
+                "deckungsbeitrag": 3615.69,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 29503.61,
+                "netto": 24586.34,
+                "brutto": 29503.61,
+                "deckungsbeitrag": 2892.21,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 13683.09,
+                "netto": 11402.58,
+                "brutto": 13683.09,
+                "deckungsbeitrag": 1779.62,
+                "anzahl_personal": 30
+            }
+        ]
+    },
+    {
+        "monat": "2024-05",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 25,
+            "tatsaechliche_betten": 24,
+            "belegte_betten": 19,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.5,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 12.1,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.2,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 53056.45,
+                "netto": 44213.71,
+                "brutto": 53056.45,
+                "deckungsbeitrag": 4019.01,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 1814.88,
+                "netto": 1512.4,
+                "brutto": 1814.88,
+                "deckungsbeitrag": 137.48,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 72697.64,
+                "netto": 60581.37,
+                "brutto": 72697.64,
+                "deckungsbeitrag": 5506.82,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 8112.12,
+                "netto": 6760.1,
+                "brutto": 8112.12,
+                "deckungsbeitrag": 538.25,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 22501.8,
+                "netto": 18751.5,
+                "brutto": 22501.8,
+                "deckungsbeitrag": 1493.04,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 6626.99,
+                "netto": 5522.49,
+                "brutto": 6626.99,
+                "deckungsbeitrag": 1482.19,
+                "anzahl_personal": 18
+            }
+        ]
+    },
+    {
+        "monat": "2024-05",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 45,
+            "tatsaechliche_betten": 44,
+            "belegte_betten": 35,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 8.3,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 24.2,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.7,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.2,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 31461.54,
+                "netto": 26217.95,
+                "brutto": 31461.54,
+                "deckungsbeitrag": 5579.04,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 128240.46,
+                "netto": 106867.05,
+                "brutto": 128240.46,
+                "deckungsbeitrag": 22740.74,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 14845.62,
+                "netto": 12371.35,
+                "brutto": 14845.62,
+                "deckungsbeitrag": 3069.04,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 30255.1,
+                "netto": 25212.58,
+                "brutto": 30255.1,
+                "deckungsbeitrag": 6254.66,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 11576.77,
+                "netto": 9647.31,
+                "brutto": 11576.77,
+                "deckungsbeitrag": 919.37,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-05",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 11,
+            "tatsaechliche_betten": 11,
+            "belegte_betten": 8,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 15.0,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.5,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.3,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 23410.93,
+                "netto": 19509.11,
+                "brutto": 23410.93,
+                "deckungsbeitrag": 4151.43,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 200685.21,
+                "netto": 167237.68,
+                "brutto": 200685.21,
+                "deckungsbeitrag": 29057.68,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 51122.42,
+                "netto": 42602.02,
+                "brutto": 51122.42,
+                "deckungsbeitrag": 7402.13,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 14063.91,
+                "netto": 11719.93,
+                "brutto": 14063.91,
+                "deckungsbeitrag": 2036.35,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 56960.34,
+                "netto": 47466.95,
+                "brutto": 56960.34,
+                "deckungsbeitrag": 6779.22,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 27158.58,
+                "netto": 22632.15,
+                "brutto": 27158.58,
+                "deckungsbeitrag": 3232.32,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 21134.29,
+                "netto": 17611.91,
+                "brutto": 21134.29,
+                "deckungsbeitrag": 3004.36,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-06",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 35,
+            "tatsaechliche_betten": 33,
+            "belegte_betten": 26,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.4,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 18.4,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.7,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.3,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 29294.76,
+                "netto": 24412.3,
+                "brutto": 29294.76,
+                "deckungsbeitrag": 6390.42,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 9418.87,
+                "netto": 7849.06,
+                "brutto": 9418.87,
+                "deckungsbeitrag": 2054.65,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 163333.25,
+                "netto": 136111.04,
+                "brutto": 163333.25,
+                "deckungsbeitrag": 35629.84,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 40620.9,
+                "netto": 33850.75,
+                "brutto": 40620.9,
+                "deckungsbeitrag": 7548.19,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 25352.46,
+                "netto": 21127.05,
+                "brutto": 25352.46,
+                "deckungsbeitrag": 4711.01,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 12921.77,
+                "netto": 10768.14,
+                "brutto": 12921.77,
+                "deckungsbeitrag": 2550.3,
+                "anzahl_personal": 32
+            }
+        ]
+    },
+    {
+        "monat": "2024-06",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 25,
+            "tatsaechliche_betten": 23,
+            "belegte_betten": 21,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 4.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 11.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.5,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 33099.24,
+                "netto": 27582.7,
+                "brutto": 33099.24,
+                "deckungsbeitrag": 4884.19,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 53795.37,
+                "netto": 44829.48,
+                "brutto": 53795.37,
+                "deckungsbeitrag": 7938.15,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 30520.24,
+                "netto": 25433.53,
+                "brutto": 30520.24,
+                "deckungsbeitrag": 4503.63,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 484.52,
+                "netto": 403.77,
+                "brutto": 484.52,
+                "deckungsbeitrag": 32.0,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 31419.95,
+                "netto": 26183.29,
+                "brutto": 31419.95,
+                "deckungsbeitrag": 2075.19,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 7341.01,
+                "netto": 6117.51,
+                "brutto": 7341.01,
+                "deckungsbeitrag": 1683.46,
+                "anzahl_personal": 20
+            }
+        ]
+    },
+    {
+        "monat": "2024-06",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 45,
+            "tatsaechliche_betten": 43,
+            "belegte_betten": 37,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 7.9,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 24.4,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.4,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 55379.39,
+                "netto": 46149.49,
+                "brutto": 55379.39,
+                "deckungsbeitrag": 3175.27,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 99979.03,
+                "netto": 83315.86,
+                "brutto": 99979.03,
+                "deckungsbeitrag": 5732.46,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 31768.74,
+                "netto": 26473.95,
+                "brutto": 31768.74,
+                "deckungsbeitrag": 1821.51,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 20963.07,
+                "netto": 17469.23,
+                "brutto": 20963.07,
+                "deckungsbeitrag": 1497.49,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 24268.15,
+                "netto": 20223.45,
+                "brutto": 24268.15,
+                "deckungsbeitrag": 1733.58,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 9555.15,
+                "netto": 7962.62,
+                "brutto": 9555.15,
+                "deckungsbeitrag": 1886.96,
+                "anzahl_personal": 35
+            }
+        ]
+    },
+    {
+        "monat": "2024-06",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 13,
+            "tatsaechliche_betten": 13,
+            "belegte_betten": 12,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 6.1,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 14.9,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.5,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 38812.96,
+                "netto": 32344.13,
+                "brutto": 38812.96,
+                "deckungsbeitrag": 5291.44,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 33562.14,
+                "netto": 27968.45,
+                "brutto": 33562.14,
+                "deckungsbeitrag": 4575.59,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 187442.49,
+                "netto": 156202.07,
+                "brutto": 187442.49,
+                "deckungsbeitrag": 25554.39,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 66912.76,
+                "netto": 55760.64,
+                "brutto": 66912.76,
+                "deckungsbeitrag": 6615.71,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 14463.95,
+                "netto": 12053.29,
+                "brutto": 14463.95,
+                "deckungsbeitrag": 1430.06,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 20356.57,
+                "netto": 16963.81,
+                "brutto": 20356.57,
+                "deckungsbeitrag": 1432.22,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-07",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 35,
+            "tatsaechliche_betten": 32,
+            "belegte_betten": 27,
+            "sperrzeiten": 3
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.2,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 18.2,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.5,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.8,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 55415.88,
+                "netto": 46179.9,
+                "brutto": 55415.88,
+                "deckungsbeitrag": 3345.16,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 72781.16,
+                "netto": 60650.97,
+                "brutto": 72781.16,
+                "deckungsbeitrag": 4393.41,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 72845.82,
+                "netto": 60704.85,
+                "brutto": 72845.82,
+                "deckungsbeitrag": 4397.32,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 60793.81,
+                "netto": 50661.51,
+                "brutto": 60793.81,
+                "deckungsbeitrag": 11363.23,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 1104.19,
+                "netto": 920.16,
+                "brutto": 1104.19,
+                "deckungsbeitrag": 206.39,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 11968.06,
+                "netto": 9973.38,
+                "brutto": 11968.06,
+                "deckungsbeitrag": 1730.98,
+                "anzahl_personal": 32
+            }
+        ]
+    },
+    {
+        "monat": "2024-07",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 24,
+            "tatsaechliche_betten": 20,
+            "belegte_betten": 17,
+            "sperrzeiten": 4
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.5,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 12.0,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 51091.42,
+                "netto": 42576.18,
+                "brutto": 51091.42,
+                "deckungsbeitrag": 10680.84,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 55434.06,
+                "netto": 46195.05,
+                "brutto": 55434.06,
+                "deckungsbeitrag": 11588.68,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 6558.15,
+                "netto": 5465.13,
+                "brutto": 6558.15,
+                "deckungsbeitrag": 1371.0,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 5024.25,
+                "netto": 4186.88,
+                "brutto": 5024.25,
+                "deckungsbeitrag": 888.05,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 23707.07,
+                "netto": 19755.89,
+                "brutto": 23707.07,
+                "deckungsbeitrag": 4190.26,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 6682.98,
+                "netto": 5569.15,
+                "brutto": 6682.98,
+                "deckungsbeitrag": 1425.61,
+                "anzahl_personal": 20
+            }
+        ]
+    },
+    {
+        "monat": "2024-07",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 45,
+            "tatsaechliche_betten": 42,
+            "belegte_betten": 39,
+            "sperrzeiten": 3
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 7.5,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 24.0,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.9,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.7,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 121846.39,
+                "netto": 101538.66,
+                "brutto": 121846.39,
+                "deckungsbeitrag": 24844.31,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 43939.18,
+                "netto": 36615.99,
+                "brutto": 43939.18,
+                "deckungsbeitrag": 8959.14,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 7877.82,
+                "netto": 6564.85,
+                "brutto": 7877.82,
+                "deckungsbeitrag": 1606.28,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 34311.9,
+                "netto": 28593.25,
+                "brutto": 34311.9,
+                "deckungsbeitrag": 5351.56,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 12389.08,
+                "netto": 10324.23,
+                "brutto": 12389.08,
+                "deckungsbeitrag": 1932.3,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 10332.58,
+                "netto": 8610.48,
+                "brutto": 10332.58,
+                "deckungsbeitrag": 835.62,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-07",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 12,
+            "tatsaechliche_betten": 10,
+            "belegte_betten": 9,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 6.0,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 15.1,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.1,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.3,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 123448.94,
+                "netto": 102874.12,
+                "brutto": 123448.94,
+                "deckungsbeitrag": 14785.93,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 88941.26,
+                "netto": 74117.72,
+                "brutto": 88941.26,
+                "deckungsbeitrag": 10652.82,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 34083.44,
+                "netto": 28402.86,
+                "brutto": 34083.44,
+                "deckungsbeitrag": 4082.3,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 63640.99,
+                "netto": 53034.16,
+                "brutto": 63640.99,
+                "deckungsbeitrag": 15794.79,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 21900.62,
+                "netto": 18250.52,
+                "brutto": 21900.62,
+                "deckungsbeitrag": 5435.43,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 22069.81,
+                "netto": 18391.51,
+                "brutto": 22069.81,
+                "deckungsbeitrag": 3639.19,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-08",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 34,
+            "tatsaechliche_betten": 30,
+            "belegte_betten": 24,
+            "sperrzeiten": 4
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.1,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 18.3,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.0,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.5,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 150572.11,
+                "netto": 125476.76,
+                "brutto": 150572.11,
+                "deckungsbeitrag": 16915.94,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 15426.83,
+                "netto": 12855.69,
+                "brutto": 15426.83,
+                "deckungsbeitrag": 1733.12,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 22854.66,
+                "netto": 19045.55,
+                "brutto": 22854.66,
+                "deckungsbeitrag": 2567.59,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 13149.34,
+                "netto": 10957.78,
+                "brutto": 13149.34,
+                "deckungsbeitrag": 1956.57,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 54076.93,
+                "netto": 45064.11,
+                "brutto": 54076.93,
+                "deckungsbeitrag": 8046.45,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 11955.69,
+                "netto": 9963.08,
+                "brutto": 11955.69,
+                "deckungsbeitrag": 2621.77,
+                "anzahl_personal": 32
+            }
+        ]
+    },
+    {
+        "monat": "2024-08",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 24,
+            "tatsaechliche_betten": 19,
+            "belegte_betten": 16,
+            "sperrzeiten": 5
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.5,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 11.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.6,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.6,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 84608.15,
+                "netto": 70506.8,
+                "brutto": 84608.15,
+                "deckungsbeitrag": 11398.36,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 4786.11,
+                "netto": 3988.43,
+                "brutto": 4786.11,
+                "deckungsbeitrag": 644.78,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 25370.87,
+                "netto": 21142.4,
+                "brutto": 25370.87,
+                "deckungsbeitrag": 3417.95,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 17725.14,
+                "netto": 14770.95,
+                "brutto": 17725.14,
+                "deckungsbeitrag": 3053.88,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 12303.13,
+                "netto": 10252.61,
+                "brutto": 12303.13,
+                "deckungsbeitrag": 2119.72,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 6367.21,
+                "netto": 5306.01,
+                "brutto": 6367.21,
+                "deckungsbeitrag": 1488.34,
+                "anzahl_personal": 18
+            }
+        ]
+    },
+    {
+        "monat": "2024-08",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 45,
+            "tatsaechliche_betten": 41,
+            "belegte_betten": 33,
+            "sperrzeiten": 4
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 8.2,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 24.4,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.0,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.7,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 78914.18,
+                "netto": 65761.81,
+                "brutto": 78914.18,
+                "deckungsbeitrag": 12524.52,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 56942.12,
+                "netto": 47451.77,
+                "brutto": 56942.12,
+                "deckungsbeitrag": 9037.32,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 40799.77,
+                "netto": 33999.81,
+                "brutto": 40799.77,
+                "deckungsbeitrag": 6475.36,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 35232.18,
+                "netto": 29360.15,
+                "brutto": 35232.18,
+                "deckungsbeitrag": 6649.84,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 11427.77,
+                "netto": 9523.14,
+                "brutto": 11427.77,
+                "deckungsbeitrag": 2156.92,
+                "anzahl_personal": 36
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 10594.06,
+                "netto": 8828.38,
+                "brutto": 10594.06,
+                "deckungsbeitrag": 1744.1,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-08",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 11,
+            "tatsaechliche_betten": 9,
+            "belegte_betten": 7,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 6.0,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 14.8,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.2,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 68312.01,
+                "netto": 56926.68,
+                "brutto": 68312.01,
+                "deckungsbeitrag": 5463.83,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 191984.81,
+                "netto": 159987.35,
+                "brutto": 191984.81,
+                "deckungsbeitrag": 15355.61,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 1594.99,
+                "netto": 1329.15,
+                "brutto": 1594.99,
+                "deckungsbeitrag": 127.57,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 33001.98,
+                "netto": 27501.65,
+                "brutto": 33001.98,
+                "deckungsbeitrag": 5382.68,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 48258.09,
+                "netto": 40215.08,
+                "brutto": 48258.09,
+                "deckungsbeitrag": 7870.97,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 20167.43,
+                "netto": 16806.19,
+                "brutto": 20167.43,
+                "deckungsbeitrag": 4672.59,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-09",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 36,
+            "tatsaechliche_betten": 35,
+            "belegte_betten": 32,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 9.9,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 17.9,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.3,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 45904.48,
+                "netto": 38253.74,
+                "brutto": 45904.48,
+                "deckungsbeitrag": 9527.84,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 57452.53,
+                "netto": 47877.11,
+                "brutto": 57452.53,
+                "deckungsbeitrag": 11924.73,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 87221.53,
+                "netto": 72684.61,
+                "brutto": 87221.53,
+                "deckungsbeitrag": 18103.53,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 14380.27,
+                "netto": 11983.56,
+                "brutto": 14380.27,
+                "deckungsbeitrag": 1715.12,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 54986.23,
+                "netto": 45821.86,
+                "brutto": 54986.23,
+                "deckungsbeitrag": 6558.17,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 13688.07,
+                "netto": 11406.73,
+                "brutto": 13688.07,
+                "deckungsbeitrag": 774.33,
+                "anzahl_personal": 32
+            }
+        ]
+    },
+    {
+        "monat": "2024-09",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 24,
+            "tatsaechliche_betten": 22,
+            "belegte_betten": 20,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 4.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 11.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.8,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.3,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 94772.56,
+                "netto": 78977.13,
+                "brutto": 94772.56,
+                "deckungsbeitrag": 21051.49,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 11461.05,
+                "netto": 9550.88,
+                "brutto": 11461.05,
+                "deckungsbeitrag": 2545.8,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 14866.65,
+                "netto": 12388.87,
+                "brutto": 14866.65,
+                "deckungsbeitrag": 3302.28,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 22033.41,
+                "netto": 18361.18,
+                "brutto": 22033.41,
+                "deckungsbeitrag": 4406.51,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 5888.56,
+                "netto": 4907.13,
+                "brutto": 5888.56,
+                "deckungsbeitrag": 1177.66,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 7163.4,
+                "netto": 5969.5,
+                "brutto": 7163.4,
+                "deckungsbeitrag": 1253.56,
+                "anzahl_personal": 18
+            }
+        ]
+    },
+    {
+        "monat": "2024-09",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 46,
+            "tatsaechliche_betten": 45,
+            "belegte_betten": 36,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 7.8,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 23.7,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.0,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.8,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 78831.61,
+                "netto": 65693.01,
+                "brutto": 78831.61,
+                "deckungsbeitrag": 11049.66,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 53014.62,
+                "netto": 44178.85,
+                "brutto": 53014.62,
+                "deckungsbeitrag": 7430.95,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 60410.14,
+                "netto": 50341.79,
+                "brutto": 60410.14,
+                "deckungsbeitrag": 8467.56,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 21335.65,
+                "netto": 17779.71,
+                "brutto": 21335.65,
+                "deckungsbeitrag": 2484.09,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 26094.28,
+                "netto": 21745.23,
+                "brutto": 26094.28,
+                "deckungsbeitrag": 3038.14,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 10625.48,
+                "netto": 8854.57,
+                "brutto": 10625.48,
+                "deckungsbeitrag": 647.65,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-09",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 11,
+            "tatsaechliche_betten": 11,
+            "belegte_betten": 9,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.6,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 14.7,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.7,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 72434.4,
+                "netto": 60362.0,
+                "brutto": 72434.4,
+                "deckungsbeitrag": 6177.02,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 13797.78,
+                "netto": 11498.15,
+                "brutto": 13797.78,
+                "deckungsbeitrag": 1176.64,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 149402.1,
+                "netto": 124501.75,
+                "brutto": 149402.1,
+                "deckungsbeitrag": 12740.62,
+                "anzahl_personal": 26
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 999.41,
+                "netto": 832.84,
+                "brutto": 999.41,
+                "deckungsbeitrag": 105.46,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 82590.94,
+                "netto": 68825.79,
+                "brutto": 82590.94,
+                "deckungsbeitrag": 8714.78,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 21340.93,
+                "netto": 17784.11,
+                "brutto": 21340.93,
+                "deckungsbeitrag": 5169.07,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-10",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 36,
+            "tatsaechliche_betten": 35,
+            "belegte_betten": 29,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 10.1,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 17.6,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.6,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.5,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 37061.93,
+                "netto": 30884.94,
+                "brutto": 37061.93,
+                "deckungsbeitrag": 5942.68,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 157185.68,
+                "netto": 130988.07,
+                "brutto": 157185.68,
+                "deckungsbeitrag": 25203.86,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 2807.89,
+                "netto": 2339.91,
+                "brutto": 2807.89,
+                "deckungsbeitrag": 450.23,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 44361.23,
+                "netto": 36967.69,
+                "brutto": 44361.23,
+                "deckungsbeitrag": 9315.11,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 16521.5,
+                "netto": 13767.92,
+                "brutto": 16521.5,
+                "deckungsbeitrag": 3469.24,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 15529.95,
+                "netto": 12941.63,
+                "brutto": 15529.95,
+                "deckungsbeitrag": 3277.8,
+                "anzahl_personal": 32
+            }
+        ]
+    },
+    {
+        "monat": "2024-10",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 26,
+            "tatsaechliche_betten": 26,
+            "belegte_betten": 22,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 11.5,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.6,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 22933.64,
+                "netto": 19111.37,
+                "brutto": 22933.64,
+                "deckungsbeitrag": 4896.07,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 36466.1,
+                "netto": 30388.42,
+                "brutto": 36466.1,
+                "deckungsbeitrag": 7785.1,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 68139.55,
+                "netto": 56782.96,
+                "brutto": 68139.55,
+                "deckungsbeitrag": 14547.03,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 22167.1,
+                "netto": 18472.59,
+                "brutto": 22167.1,
+                "deckungsbeitrag": 3875.47,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 6719.61,
+                "netto": 5599.67,
+                "brutto": 6719.61,
+                "deckungsbeitrag": 1174.79,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 8462.17,
+                "netto": 7051.81,
+                "brutto": 8462.17,
+                "deckungsbeitrag": 794.62,
+                "anzahl_personal": 19
+            }
+        ]
+    },
+    {
+        "monat": "2024-10",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 45,
+            "tatsaechliche_betten": 45,
+            "belegte_betten": 34,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 8.1,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 23.8,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.8,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.9,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 38849.6,
+                "netto": 32374.67,
+                "brutto": 38849.6,
+                "deckungsbeitrag": 7889.24,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 7493.47,
+                "netto": 6244.56,
+                "brutto": 7493.47,
+                "deckungsbeitrag": 1521.71,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 133570.87,
+                "netto": 111309.05,
+                "brutto": 133570.87,
+                "deckungsbeitrag": 27124.4,
+                "anzahl_personal": 34
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 41337.76,
+                "netto": 34448.14,
+                "brutto": 41337.76,
+                "deckungsbeitrag": 9486.44,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 2022.81,
+                "netto": 1685.67,
+                "brutto": 2022.81,
+                "deckungsbeitrag": 464.21,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 11339.81,
+                "netto": 9449.84,
+                "brutto": 11339.81,
+                "deckungsbeitrag": 2190.79,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-10",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 13,
+            "tatsaechliche_betten": 13,
+            "belegte_betten": 11,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.7,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 14.6,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.6,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.4,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 36283.73,
+                "netto": 30236.44,
+                "brutto": 36283.73,
+                "deckungsbeitrag": 7669.29,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 124428.53,
+                "netto": 103690.44,
+                "brutto": 124428.53,
+                "deckungsbeitrag": 26300.46,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 93415.64,
+                "netto": 77846.37,
+                "brutto": 93415.64,
+                "deckungsbeitrag": 19745.27,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 66983.72,
+                "netto": 55819.76,
+                "brutto": 66983.72,
+                "deckungsbeitrag": 11832.55,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 7728.92,
+                "netto": 6440.77,
+                "brutto": 7728.92,
+                "deckungsbeitrag": 1365.3,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 23725.74,
+                "netto": 19771.45,
+                "brutto": 23725.74,
+                "deckungsbeitrag": 3952.91,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-11",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 34,
+            "tatsaechliche_betten": 33,
+            "belegte_betten": 28,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 9.8,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 17.5,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.5,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.8,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 46724.63,
+                "netto": 38937.19,
+                "brutto": 46724.63,
+                "deckungsbeitrag": 6990.85,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 60956.17,
+                "netto": 50796.81,
+                "brutto": 60956.17,
+                "deckungsbeitrag": 9120.15,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 102400.94,
+                "netto": 85334.12,
+                "brutto": 102400.94,
+                "deckungsbeitrag": 15321.04,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 30780.83,
+                "netto": 25650.69,
+                "brutto": 30780.83,
+                "deckungsbeitrag": 1606.73,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 31165.95,
+                "netto": 25971.63,
+                "brutto": 31165.95,
+                "deckungsbeitrag": 1626.84,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 17890.83,
+                "netto": 14909.03,
+                "brutto": 17890.83,
+                "deckungsbeitrag": 1791.7,
+                "anzahl_personal": 30
+            }
+        ]
+    },
+    {
+        "monat": "2024-11",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 24,
+            "tatsaechliche_betten": 23,
+            "belegte_betten": 19,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.0,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 12.3,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.2,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 31075.66,
+                "netto": 25896.38,
+                "brutto": 31075.66,
+                "deckungsbeitrag": 4271.0,
+                "anzahl_personal": 18
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 22913.1,
+                "netto": 19094.25,
+                "brutto": 22913.1,
+                "deckungsbeitrag": 3149.15,
+                "anzahl_personal": 18
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 72483.16,
+                "netto": 60402.64,
+                "brutto": 72483.16,
+                "deckungsbeitrag": 9961.99,
+                "anzahl_personal": 18
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 24929.75,
+                "netto": 20774.8,
+                "brutto": 24929.75,
+                "deckungsbeitrag": 6003.52,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 4574.17,
+                "netto": 3811.8,
+                "brutto": 4574.17,
+                "deckungsbeitrag": 1101.54,
+                "anzahl_personal": 19
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 8509.9,
+                "netto": 7091.58,
+                "brutto": 8509.9,
+                "deckungsbeitrag": 871.86,
+                "anzahl_personal": 20
+            }
+        ]
+    },
+    {
+        "monat": "2024-11",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 44,
+            "tatsaechliche_betten": 43,
+            "belegte_betten": 38,
+            "sperrzeiten": 1
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 24.5,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.4,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.3,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 124671.03,
+                "netto": 103892.52,
+                "brutto": 124671.03,
+                "deckungsbeitrag": 24726.93,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 37046.74,
+                "netto": 30872.29,
+                "brutto": 37046.74,
+                "deckungsbeitrag": 7347.75,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 18641.01,
+                "netto": 15534.17,
+                "brutto": 18641.01,
+                "deckungsbeitrag": 3697.21,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 31417.39,
+                "netto": 26181.16,
+                "brutto": 31417.39,
+                "deckungsbeitrag": 7756.34,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 15994.11,
+                "netto": 13328.42,
+                "brutto": 15994.11,
+                "deckungsbeitrag": 3948.63,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 14204.47,
+                "netto": 11837.06,
+                "brutto": 14204.47,
+                "deckungsbeitrag": 3047.1,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-11",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 13,
+            "tatsaechliche_betten": 13,
+            "belegte_betten": 11,
+            "sperrzeiten": 0
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.8,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 15.3,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.5,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.3,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 122546.92,
+                "netto": 102122.44,
+                "brutto": 122546.92,
+                "deckungsbeitrag": 10425.59,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 34873.47,
+                "netto": 29061.23,
+                "brutto": 34873.47,
+                "deckungsbeitrag": 2966.83,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 99181.08,
+                "netto": 82650.9,
+                "brutto": 99181.08,
+                "deckungsbeitrag": 8437.76,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 74213.72,
+                "netto": 61844.77,
+                "brutto": 74213.72,
+                "deckungsbeitrag": 8963.11,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 4788.34,
+                "netto": 3990.28,
+                "brutto": 4788.34,
+                "deckungsbeitrag": 578.31,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 29224.5,
+                "netto": 24353.75,
+                "brutto": 29224.5,
+                "deckungsbeitrag": 2895.27,
+                "anzahl_personal": 24
+            }
+        ]
+    },
+    {
+        "monat": "2024-12",
+        "abteilung": "Chirurgie",
+        "bettenbelegung": {
+            "geplante_betten": 36,
+            "tatsaechliche_betten": 32,
+            "belegte_betten": 28,
+            "sperrzeiten": 4
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 9.9,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 17.9,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 1.3,
+                "abteilungscode": "CHIR"
+            },
+            {
+                "kostenstelle": "KST002",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.2,
+                "abteilungscode": "CHIR"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 14054.6,
+                "netto": 11712.17,
+                "brutto": 14054.6,
+                "deckungsbeitrag": 2643.84,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 53592.48,
+                "netto": 44660.4,
+                "brutto": 53592.48,
+                "deckungsbeitrag": 10081.39,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 141633.35,
+                "netto": 118027.79,
+                "brutto": 141633.35,
+                "deckungsbeitrag": 26642.94,
+                "anzahl_personal": 30
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 37716.33,
+                "netto": 31430.28,
+                "brutto": 37716.33,
+                "deckungsbeitrag": 7969.92,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 29698.81,
+                "netto": 24749.0,
+                "brutto": 29698.81,
+                "deckungsbeitrag": 6275.72,
+                "anzahl_personal": 32
+            },
+            {
+                "kostenstellennummer": "KST002",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 20191.73,
+                "netto": 16826.44,
+                "brutto": 20191.73,
+                "deckungsbeitrag": 4657.68,
+                "anzahl_personal": 32
+            }
+        ]
+    },
+    {
+        "monat": "2024-12",
+        "abteilung": "Gynaekologie",
+        "bettenbelegung": {
+            "geplante_betten": 24,
+            "tatsaechliche_betten": 21,
+            "belegte_betten": 18,
+            "sperrzeiten": 3
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 4.6,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 12.4,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.2,
+                "abteilungscode": "GYNA"
+            },
+            {
+                "kostenstelle": "KST004",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.4,
+                "abteilungscode": "GYNA"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 55534.7,
+                "netto": 46278.92,
+                "brutto": 55534.7,
+                "deckungsbeitrag": 11610.55,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 52187.63,
+                "netto": 43489.69,
+                "brutto": 52187.63,
+                "deckungsbeitrag": 10910.78,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 10775.51,
+                "netto": 8979.59,
+                "brutto": 10775.51,
+                "deckungsbeitrag": 2252.82,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 11225.61,
+                "netto": 9354.67,
+                "brutto": 11225.61,
+                "deckungsbeitrag": 644.37,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 20353.18,
+                "netto": 16960.99,
+                "brutto": 20353.18,
+                "deckungsbeitrag": 1168.3,
+                "anzahl_personal": 20
+            },
+            {
+                "kostenstellennummer": "KST004",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 9969.7,
+                "netto": 8308.08,
+                "brutto": 9969.7,
+                "deckungsbeitrag": 2263.12,
+                "anzahl_personal": 20
+            }
+        ]
+    },
+    {
+        "monat": "2024-12",
+        "abteilung": "Innere Medizin",
+        "bettenbelegung": {
+            "geplante_betten": 45,
+            "tatsaechliche_betten": 41,
+            "belegte_betten": 32,
+            "sperrzeiten": 4
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 7.6,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 24.5,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 0.5,
+                "abteilungscode": "INNE"
+            },
+            {
+                "kostenstelle": "KST001",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 2.2,
+                "abteilungscode": "INNE"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 140887.17,
+                "netto": 117405.97,
+                "brutto": 140887.17,
+                "deckungsbeitrag": 26907.35,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 18073.56,
+                "netto": 15061.3,
+                "brutto": 18073.56,
+                "deckungsbeitrag": 3451.78,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 18527.72,
+                "netto": 15439.77,
+                "brutto": 18527.72,
+                "deckungsbeitrag": 3538.52,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 27575.59,
+                "netto": 22979.65,
+                "brutto": 27575.59,
+                "deckungsbeitrag": 6715.75,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 13841.25,
+                "netto": 11534.38,
+                "brutto": 13841.25,
+                "deckungsbeitrag": 3370.9,
+                "anzahl_personal": 35
+            },
+            {
+                "kostenstellennummer": "KST001",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 14019.8,
+                "netto": 11683.17,
+                "brutto": 14019.8,
+                "deckungsbeitrag": 3273.1,
+                "anzahl_personal": 34
+            }
+        ]
+    },
+    {
+        "monat": "2024-12",
+        "abteilung": "Intensivstation",
+        "bettenbelegung": {
+            "geplante_betten": 11,
+            "tatsaechliche_betten": 9,
+            "belegte_betten": 8,
+            "sperrzeiten": 2
+        },
+        "personalplanung": [
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Arzt",
+                "vollzeitaequivalente_fte": 5.7,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Pflege",
+                "vollzeitaequivalente_fte": 14.6,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Technik",
+                "vollzeitaequivalente_fte": 2.2,
+                "abteilungscode": "INTV"
+            },
+            {
+                "kostenstelle": "KST003",
+                "berufsgruppe": "Verwaltung",
+                "vollzeitaequivalente_fte": 1.4,
+                "abteilungscode": "INTV"
+            }
+        ],
+        "ressourcen_kosten": [
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Personal",
+                "betrag": 2688.19,
+                "netto": 2240.15,
+                "brutto": 2688.19,
+                "deckungsbeitrag": 162.15,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Pflegeleistung",
+                "kostenart": "Personal",
+                "betrag": 81713.38,
+                "netto": 68094.49,
+                "brutto": 81713.38,
+                "deckungsbeitrag": 4928.88,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Personal",
+                "betrag": 173325.44,
+                "netto": 144437.87,
+                "brutto": 173325.44,
+                "deckungsbeitrag": 10454.85,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Material",
+                "betrag": 56553.98,
+                "netto": 47128.32,
+                "brutto": 56553.98,
+                "deckungsbeitrag": 9251.61,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Diagnose",
+                "kostenart": "Material",
+                "betrag": 19357.38,
+                "netto": 16131.15,
+                "brutto": 19357.38,
+                "deckungsbeitrag": 3166.66,
+                "anzahl_personal": 24
+            },
+            {
+                "kostenstellennummer": "KST003",
+                "kostenstellenart": "medizinisch",
+                "leistung": "Behandlung",
+                "kostenart": "Energie",
+                "betrag": 32405.12,
+                "netto": 27004.27,
+                "brutto": 32405.12,
+                "deckungsbeitrag": 2868.49,
+                "anzahl_personal": 24
+            }
+        ]
+    }
+]
